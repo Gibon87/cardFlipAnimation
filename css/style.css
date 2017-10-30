@@ -30,17 +30,21 @@ body {
 }
 .facebook {
   background: #3b5998;
+  cursor: pointer;
 }
 .twitter {
   background: #55acee;
+  cursor: pointer;
 }
 .google-plus {
   background: #dd4b39;
+  cursor: pointer;
 }
 .linkedin {
   background: #007bb5;
+  cursor: pointer;
 }
-.card-back, 
+.card-back,
 .card-front {
   backface-visibility: hidden;
   color: #fff;
